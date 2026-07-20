@@ -29,14 +29,14 @@ The system combines:
 - Grounding validation and source citations
 - Deterministic tests and retrieval benchmarks using Recall, MRR, and nDCG
 
-## Other selected work
+## Selected engineering evidence
 
-| Project | Context | Focus |
+| Project | Context | Engineering evidence |
 | --- | --- | --- |
-| [Emotion-Based Music Recommender](https://github.com/Ramisa1231/Emotion-Based-Music-Recommender) | Independent ML application | Django, transformers, recommendation and evaluation |
-| [LLM-Guided TCP Protocol Fuzzing](https://github.com/Ramisa1231/LLM-Guided-Protocol-Fuzzing-for-TCP-Handshake-Packets) | Research project | Networking, packet generation and LLM evaluation |
-| [Agentic Coach](https://github.com/Ramisa1231/Agentic_Coach) | Competition prototype | Deterministic multi-module workflow, Streamlit and pytest |
-| [AI Companion](https://github.com/Ramisa1231/companion-python-adk) | Workshop extension | Google ADK, Gemini, Flask and interactive UI |
+| [CouncilQ](https://github.com/Ramisa1231/CouncilQ) | Independent applied-AI system | Hybrid retrieval, reciprocal-rank fusion, grounding and policy checks, with Recall/MRR/nDCG evaluation harnesses |
+| [Emotion-Based Music Recommender](https://github.com/Ramisa1231/Emotion-Based-Music-Recommender) | Independent ML application | Emotion Match, Diversity, Novelty, Correction Factor, and Listener Satisfaction evaluation |
+| [LLM-Guided TCP Protocol Fuzzing](https://github.com/Ramisa1231/LLM-Guided-Protocol-Fuzzing-for-TCP-Handshake-Packets) | Research project | Grammar inference, packet validity, hallucination, relative-position, and state-transition evaluation |
+| [Agentic Coach](https://github.com/Ramisa1231/Agentic_Coach) | Competition prototype | Deterministic multi-module workflow with pytest coverage and documented architecture |
 
 ## Design and engineering
 
