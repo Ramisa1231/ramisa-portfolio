@@ -16,6 +16,8 @@ This site presents my work across retrieval-augmented generation, AI agents, mac
 
 The portfolio is designed around evidence rather than technology lists: each project is labelled by context and highlights the problem, engineering approach, and evaluation strategy.
 
+![Animated CouncilQ safety-first retrieval workflow](assets/councilq-workflow.gif)
+
 ## Featured case study: CouncilQ
 
 [CouncilQ](https://github.com/Ramisa1231/CouncilQ) is a read-only policy assistant for City of Adelaide service questions.
@@ -29,14 +31,22 @@ The system combines:
 - Grounding validation and source citations
 - Deterministic tests and retrieval benchmarks using Recall, MRR, and nDCG
 
+### Reproducible retrieval result
+
+The checked-in retrieval fixture currently passes **5/5 deterministic trusted-source routing cases** at `k=5`, with **Recall@5 1.000**, **MRR@5 1.000**, and **nDCG@5 1.000**. The benchmark runs with live page fetching disabled and validates the curated seed-routing fixture; it is not presented as a production-corpus result.
+
 ## Selected engineering evidence
 
 | Project | Context | Engineering evidence |
 | --- | --- | --- |
-| [CouncilQ](https://github.com/Ramisa1231/CouncilQ) | Independent applied-AI system | Hybrid retrieval, reciprocal-rank fusion, grounding and policy checks, with Recall/MRR/nDCG evaluation harnesses |
+| [CouncilQ](https://github.com/Ramisa1231/CouncilQ) | Independent applied-AI system | 5/5 checked-in seed-routing cases passed; Recall@5, MRR@5, and nDCG@5 each 1.000, with hybrid retrieval, grounding, and policy controls |
 | [Emotion-Based Music Recommender](https://github.com/Ramisa1231/Emotion-Based-Music-Recommender) | Independent ML application | Emotion Match, Diversity, Novelty, Correction Factor, and Listener Satisfaction evaluation |
 | [LLM-Guided TCP Protocol Fuzzing](https://github.com/Ramisa1231/LLM-Guided-Protocol-Fuzzing-for-TCP-Handshake-Packets) | Research project | Grammar inference, packet validity, hallucination, relative-position, and state-transition evaluation |
 | [Agentic Coach](https://github.com/Ramisa1231/Agentic_Coach) | Competition prototype | Deterministic multi-module workflow with pytest coverage and documented architecture |
+
+## Stakeholder-facing delivery
+
+A recurring challenge in forward-deployed work is converting an ambiguous organisational request into a system that can be evaluated and handed over. My delivery pattern is to clarify the decision behind the request, define trusted evidence and safety boundaries, prototype the smallest useful workflow, and turn stakeholder feedback into measurable acceptance criteria and maintainable documentation.
 
 ## Design and engineering
 
@@ -50,9 +60,12 @@ The system combines:
 
 ## Technology
 
-```text
-HTML · CSS · JavaScript · GitHub Actions · GitHub Pages
-```
+| Area | Technologies |
+| --- | --- |
+| Core AI / ML | RAG, AI agents, embeddings, NLP, evaluation |
+| Backend & APIs | Python, FastAPI, Flask, Django |
+| Frontend | HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS |
+| Cloud & delivery | Google Cloud, Docker, GitHub, GitHub Pages, stakeholder discovery |
 
 ## Run locally
 
@@ -66,7 +79,7 @@ Open [http://localhost:8000](http://localhost:8000).
 
 ## Deployment
 
-Every push to `main` deploys automatically through the [GitHub Pages workflow](https://github.com/Ramisa1231/ramisa-portfolio/actions).
+Every push to `main` deploys automatically through GitHub Pages branch deployment.
 
 Live site: **[ramisa1231.github.io/ramisa-portfolio](https://ramisa1231.github.io/ramisa-portfolio/)**
 
