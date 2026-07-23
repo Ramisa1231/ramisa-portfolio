@@ -48,7 +48,17 @@
       <div class="about-copy">
         <p class="lead">I translate complex AI capability into practical systems that stakeholders can understand, evaluate, and operate.</p>
         <p>My background spans software engineering, computer-science research, university teaching, learning technology, and client-oriented delivery. That combination helps me move between technical detail and organisational reality.</p>
-        <div class="skills" aria-label="Technical skills"><span>Python</span><span>RAG</span><span>Google ADK</span><span>FastAPI</span><span>Django</span><span>React</span><span>TypeScript</span><span>Docker</span><span>Google Cloud</span></div>
+        <div class="skill-groups" aria-label="Technical toolkit">
+          <div><strong>Core AI / ML</strong><p>RAG · AI agents · embeddings · NLP · evaluation</p></div>
+          <div><strong>Backend & APIs</strong><p>Python · FastAPI · Flask · Django</p></div>
+          <div><strong>Frontend</strong><p>React · TypeScript · Tailwind CSS</p></div>
+          <div><strong>Cloud & delivery</strong><p>Google Cloud · Docker · GitHub · stakeholder discovery</p></div>
+        </div>
+        <div class="delivery-example">
+          <p class="project-type">A recurring delivery pattern</p>
+          <h3>From ambiguous need to testable system</h3>
+          <p>I clarify the stakeholder decision behind a request, define trusted evidence and safety boundaries, prototype the smallest useful workflow, then turn feedback into measurable acceptance criteria and a maintainable handover.</p>
+        </div>
       </div>
     </section>
 
@@ -56,17 +66,14 @@
       <div class="container">
         <div class="section-heading"><div><p class="section-label">02 / Flagship case study</p><h2>CouncilQ</h2></div><p class="case-kicker">Policy intelligence for trustworthy public-service answers.</p></div>
         <div class="case-grid">
-          <div class="architecture" role="img" aria-label="CouncilQ retrieval workflow diagram">
-            <div class="arch-top"><span>USER QUESTION</span><span>READ-ONLY SYSTEM</span></div>
-            <div class="arch-flow">
-              <div class="arch-node"><small>01</small>Policy screen</div><i>→</i><div class="arch-node accent"><small>02</small>Hybrid retrieval</div><i>→</i><div class="arch-node"><small>03</small>Rerank + compress</div><i>→</i><div class="arch-node"><small>04</small>Grounded answer</div>
-            </div>
-            <div class="arch-details"><span>Prompt-injection checks</span><span>Dense + lexical search</span><span>RRF fusion</span><span>Source citations</span></div>
-          </div>
+          <figure class="case-visual">
+            <img src="assets/councilq-workflow.gif" alt="Animated CouncilQ workflow: policy screen, trusted retrieval, reranking and context compression, then a grounded answer with citations.">
+            <figcaption>Measured on five checked-in, deterministic trusted-source routing cases with live fetching disabled.</figcaption>
+          </figure>
           <div class="case-copy">
             <p class="case-problem"><span>THE PROBLEM</span>People need clear answers from dense council documents, but public-sector AI must remain grounded, traceable, and safe.</p>
             <p><strong>What I built</strong>A read-only RAG assistant with policy screening, trusted-source seeds, dense and lexical retrieval, reciprocal-rank fusion, reranking, context compression, and citation validation.</p>
-            <div class="proof-grid"><div><strong>FastAPI</strong><span>POST /ask endpoint</span></div><div><strong>Pytest</strong><span>Deterministic coverage</span></div><div><strong>Recall · MRR · nDCG</strong><span>Retrieval benchmarks</span></div><div><strong>PII + injection</strong><span>Central policy checks</span></div></div>
+            <div class="proof-grid"><div><strong>5 / 5</strong><span>Seed-routing cases passed</span></div><div><strong>1.000</strong><span>Recall@5 · MRR@5 · nDCG@5</span></div><div><strong>FastAPI + pytest</strong><span>API and deterministic coverage</span></div><div><strong>PII + injection</strong><span>Central policy checks</span></div></div>
             <a class="text-link" href="https://github.com/Ramisa1231/CouncilQ" target="_blank" rel="noopener noreferrer">Inspect the repository <span>↗</span></a>
           </div>
         </div>
