@@ -11,4 +11,7 @@
 .case-visual picture{display:block}
 .case-visual img{display:block;width:100%;height:auto}
 .case-visual figcaption{padding:.8rem 1rem;color:#9babb9;font-family:'DM Mono';font-size:.68rem;line-height:1.5}
+.timeline{grid-template-columns:repeat(2,1fr)}
+@media(max-width:850px){.timeline{grid-template-columns:1fr}}
 @media(max-width:600px){.skill-groups{grid-template-columns:1fr}}
+
