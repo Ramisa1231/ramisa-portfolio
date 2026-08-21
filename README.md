@@ -89,4 +89,3 @@ I am interested in applied AI, forward-deployed engineering, AI consulting, and 
 
 - [LinkedIn](https://www.linkedin.com/in/syedaramisafariha)
 - [GitHub](https://github.com/Ramisa1231)
-
