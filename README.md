@@ -4,7 +4,7 @@
 
 **Forward Deployed Engineer building evaluated, safety-aware AI systems**
 
-[View live portfolio](https://ramisa1231.github.io/ramisa-portfolio/) · [GitHub profile](https://github.com/Ramisa1231) · [LinkedIn](https://www.linkedin.com/in/syedaramisafariha) · [Email](mailto:ramisa@thehelixlab.ai)
+[View live portfolio](https://ramisa1231.github.io/ramisa-portfolio/) · [GitHub profile](https://github.com/Ramisa1231) · [LinkedIn](https://www.linkedin.com/in/syedaramisafariha)
 
 </div>
 
@@ -89,4 +89,4 @@ I am interested in applied AI, forward-deployed engineering, AI consulting, and 
 
 - [LinkedIn](https://www.linkedin.com/in/syedaramisafariha)
 - [GitHub](https://github.com/Ramisa1231)
-- [Email](mailto:ramisa@thehelixlab.ai)
+
