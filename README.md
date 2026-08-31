@@ -2,7 +2,7 @@
 
 # Syeda Ramisa Fariha — Applied AI Portfolio
 
-**Forward Deployed Engineer building evaluated, safety-aware AI systems**
+**Applied AI Engineer building evaluated, safety-aware AI systems**
 
 [View live portfolio](https://ramisa1231.github.io/ramisa-portfolio/) · [GitHub profile](https://github.com/Ramisa1231) · [LinkedIn](https://www.linkedin.com/in/syedaramisafariha)
 
@@ -12,7 +12,7 @@
 
 ## About this portfolio
 
-This site presents my work across retrieval-augmented generation, AI agents, machine learning, full-stack development, research, and stakeholder-facing technical delivery.
+This site presents my work across retrieval-augmented generation, AI agents, machine learning, full-stack development, research, and responsible technical delivery.
 
 The portfolio is designed around evidence rather than technology lists: each project is labelled by context and highlights the problem, engineering approach, and evaluation strategy.
 
@@ -44,9 +44,9 @@ The checked-in retrieval fixture currently passes **5/5 deterministic trusted-so
 | [LLM-Guided TCP Protocol Fuzzing](https://github.com/Ramisa1231/LLM-Guided-Protocol-Fuzzing-for-TCP-Handshake-Packets) | Research project | Grammar inference, packet validity, hallucination, relative-position, and state-transition evaluation |
 | [Agentic Coach](https://github.com/Ramisa1231/Agentic_Coach) | Competition prototype | Deterministic multi-module workflow with pytest coverage and documented architecture |
 
-## Stakeholder-facing delivery
+## Practical AI delivery
 
-A recurring challenge in forward-deployed work is converting an ambiguous organisational request into a system that can be evaluated and handed over. My delivery pattern is to clarify the decision behind the request, define trusted evidence and safety boundaries, prototype the smallest useful workflow, and turn stakeholder feedback into measurable acceptance criteria and maintainable documentation.
+I turn ambiguous technical problems into systems that can be evaluated and maintained. My approach is to clarify the problem, define trusted evidence and safety boundaries, prototype the smallest useful workflow, and document measurable acceptance criteria.
 
 ## Design and engineering
 
@@ -85,7 +85,7 @@ Live site: **[ramisa1231.github.io/ramisa-portfolio](https://ramisa1231.github.i
 
 ## Contact
 
-I am interested in applied AI, forward-deployed engineering, AI consulting, and software roles where technical judgement and stakeholder collaboration matter.
+I am interested in applied AI, responsible AI, machine learning, and software roles where technical judgement and collaboration matter.
 
 - [LinkedIn](https://www.linkedin.com/in/syedaramisafariha)
 - [GitHub](https://github.com/Ramisa1231)
