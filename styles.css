@@ -26,3 +26,5 @@
 #srf{scroll-margin-top:85px}
 @media(max-width:1000px){.srf-grid{grid-template-columns:1fr}.srf-summary{grid-template-columns:1fr;gap:1.5rem}.srf-metrics{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:520px){.srf-summary{padding:1.25rem}.srf-metrics{grid-template-columns:1fr}.srf-grid article{padding:1.25rem}}
+
+.srf-comparison{margin:1.25rem 0}.srf-comparison img{display:block;width:100%;height:auto;border:1px solid var(--line)}.srf-comparison figcaption{font-size:.75rem;color:var(--muted);margin-top:.5rem}.srf-metrics dd{overflow-wrap:anywhere}
