@@ -1,8 +1,8 @@
 <div align="center">
 
-# Syeda Ramisa Fariha — Applied AI Portfolio
+# Syeda Ramisa Fariha — Software Development & Applied AI Portfolio
 
-**Applied AI Engineer building evaluated, safety-aware AI systems**
+**Software Developer & Applied AI Engineer building reliable software and evaluated, safety-aware AI systems**
 
 [View live portfolio](https://ramisa1231.github.io/ramisa-portfolio/) · [GitHub profile](https://github.com/Ramisa1231) · [LinkedIn](https://www.linkedin.com/in/syedaramisafariha)
 
