@@ -12,3 +12,19 @@
 .case-visual img{display:block;width:100%;height:auto}
 .case-visual figcaption{padding:.8rem 1rem;color:#9babb9;font-family:'DM Mono';font-size:.68rem;line-height:1.5}
 @media(max-width:600px){.skill-groups{grid-template-columns:1fr}}
+
+/* SRF volunteer delivery case study */
+.srf-summary{display:grid;grid-template-columns:1.4fr 1fr;gap:3rem;padding:2rem;background:var(--surface);border:1px solid var(--line)}
+.srf-summary p:not(.project-type){color:var(--muted)}
+.srf-metrics{margin:0;display:grid;gap:1rem;align-content:center}
+.srf-metrics div{padding:1rem;border-left:2px solid var(--lime)}
+.srf-metrics dt{color:var(--muted);font-size:.8rem}.srf-metrics dd{margin:0;color:var(--lime);font-size:1.7rem;font-weight:700}
+.srf-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.5rem;margin-top:1.5rem}
+.srf-grid article{padding:1.5rem;border:1px solid var(--line);background:var(--surface)}
+.srf-grid p:not(.project-type){color:var(--muted);font-size:.95rem}.srf-grid strong{color:var(--text)}
+.srf-grid .text-link{font-size:.9rem}.srf-note{color:var(--muted);font-size:.85rem;padding:1rem 0;margin-bottom:0}
+#srf{scroll-margin-top:85px}
+@media(max-width:1000px){.srf-grid{grid-template-columns:1fr}.srf-summary{grid-template-columns:1fr;gap:1.5rem}.srf-metrics{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:520px){.srf-summary{padding:1.25rem}.srf-metrics{grid-template-columns:1fr}.srf-grid article{padding:1.25rem}}
+
+.srf-comparison{margin:1.25rem 0}.srf-comparison img{display:block;width:100%;height:auto;border:1px solid var(--line)}.srf-comparison figcaption{font-size:.75rem;color:var(--muted);margin-top:.5rem}.srf-metrics dd{overflow-wrap:anywhere}

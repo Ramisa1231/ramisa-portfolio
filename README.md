@@ -44,6 +44,17 @@ The checked-in retrieval fixture currently passes **5/5 deterministic trusted-so
 | [LLM-Guided TCP Protocol Fuzzing](https://github.com/Ramisa1231/LLM-Guided-Protocol-Fuzzing-for-TCP-Handshake-Packets) | Research project | Grammar inference, packet validity, hallucination, relative-position, and state-transition evaluation |
 | [Agentic Coach](https://github.com/Ramisa1231/Agentic_Coach) | Competition prototype | Deterministic multi-module workflow with pytest coverage and documented architecture |
 
+## Volunteer case study: Saroni Roy Foundation
+
+The [SRF section](https://ramisa1231.github.io/ramisa-portfolio/#srf) documents my volunteer web development on Super Naari:
+
+- **Development:** React, TypeScript and Tailwind CSS navigation fixes in [merged PR #32](https://github.com/Aria622/Saroni-Roy-Foundation/pull/32), including mobile-menu behaviour and the tablet breakpoint.
+- **Verification:** Eight viewport widths, cross-route navigation, browser history, intended 404 responses, targeted ESLint validation and a passing production build.
+- **Troubleshooting:** Wix contact-form CMS and automation checks identified a missing internal recipient and an inactive visitor-confirmation workflow.
+- **Outcome boundaries:** GitHub changes were merged. Wix work was checked in staged previews; email configuration remained pending and the official Wix site was unpublished in the September 2026 record.
+
+The case study summarises the supplied July and September contribution records without publishing support conversations, account details, test submissions or internal configuration identifiers.
+
 ## Practical AI delivery
 
 I turn ambiguous technical problems into systems that can be evaluated and maintained. My approach is to clarify the problem, define trusted evidence and safety boundaries, prototype the smallest useful workflow, and document measurable acceptance criteria.
