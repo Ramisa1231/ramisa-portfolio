@@ -51,6 +51,8 @@ The [SRF section](https://ramisa1231.github.io/ramisa-portfolio/#srf) documents 
 - **Development:** React, TypeScript and Tailwind CSS navigation fixes in [merged PR #32](https://github.com/Aria622/Saroni-Roy-Foundation/pull/32), including mobile-menu behaviour and the tablet breakpoint.
 - **Verification:** Eight viewport widths, cross-route navigation, browser history, intended 404 responses, targeted ESLint validation and a passing production build.
 - **Troubleshooting:** Wix contact-form CMS and automation checks identified a missing internal recipient and an inactive visitor-confirmation workflow.
+- **Wix delivery:** Completed and staged updates to impact metrics, association logos, program thumbnails and carousels, contact content, workshop storytelling, and a new Our Team page with member profiles and navigation.
+- **Evidence:** Recorded demonstrations cover program media, the workshop carousel, and the Our Team page; the public portfolio summarizes them without exposing the underlying work folder.
 - **Outcome boundaries:** GitHub changes were merged. Wix work was checked in staged previews; email configuration remained pending and the official Wix site was unpublished in the September 2026 record.
 
 The case study summarises the supplied July and September contribution records without publishing support conversations, account details, test submissions or internal configuration identifiers.
