@@ -4,7 +4,7 @@
 
 **Software Developer & Applied AI Engineer building reliable software and evaluated, safety-aware AI systems**
 
-[View live portfolio](https://ramisa1231.github.io/ramisa-portfolio/) · [GitHub profile](https://github.com/Ramisa1231) · [LinkedIn](https://www.linkedin.com/in/syedaramisafariha)
+[View live portfolio](https://ramisa1231.github.io/ramisa-portfolio/) · [Download CV](assets/Ramisa-Fariha-CV.pdf) · [GitHub profile](https://github.com/Ramisa1231) · [LinkedIn](https://www.linkedin.com/in/syedaramisafariha)
 
 </div>
 
