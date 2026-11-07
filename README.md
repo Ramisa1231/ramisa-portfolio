@@ -1,6 +1,6 @@
 <div align="center">
 
-# Syeda Ramisa Fariha — Software Development & Applied AI Portfolio
+# Ramisa Fariha — Software Development & Applied AI Portfolio
 
 **Software Developer & Applied AI Engineer building reliable software and evaluated, safety-aware AI systems**
 
