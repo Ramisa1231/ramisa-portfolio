@@ -53,7 +53,7 @@ The [SRF section](https://ramisa1231.github.io/ramisa-portfolio/#srf) documents 
 - **Wix delivery:** Documented 15 tasks across CMS, forms, media and navigation, including program assets, workshop content and a new Our Team route.
 - **Newsletter flow:** Replaced a simulated submission with labelled Name and Email fields and a verified LinkedIn newsletter destination; secure confirmation email delivery remained pending sender configuration.
 - **Troubleshooting:** Distinguished successful browser and CMS behaviour from a missing internal-alert recipient and an inactive visitor-confirmation workflow.
-- **Evidence:** Added a sanitized workshop-page before/after visual to the repository; the public portfolio does not expose the underlying Drive folder.
+- **Evidence boundary:** The public portfolio summarizes the documented work without exposing the underlying Drive folder, private support history or identifiable team imagery.
 - **Outcome boundaries:** GitHub changes were merged. Wix work was checked in staged previews; email configuration remained pending and the official Wix site was unpublished in the September 2026 record.
 
 The case study summarises the supplied July and September contribution records without publishing support conversations, account details, test submissions or internal configuration identifiers.
