@@ -49,10 +49,11 @@ The checked-in retrieval fixture currently passes **5/5 deterministic trusted-so
 The [SRF section](https://ramisa1231.github.io/ramisa-portfolio/#srf) documents my volunteer web development on Super Naari:
 
 - **Development:** React, TypeScript and Tailwind CSS navigation fixes in [merged PR #32](https://github.com/Aria622/Saroni-Roy-Foundation/pull/32), including mobile-menu behaviour and the tablet breakpoint.
-- **Verification:** Eight viewport widths, cross-route navigation, browser history, intended 404 responses, targeted ESLint validation and a passing production build.
-- **Troubleshooting:** Wix contact-form CMS and automation checks identified a missing internal recipient and an inactive visitor-confirmation workflow.
-- **Wix delivery:** Completed and staged updates to impact metrics, association logos, program thumbnails and carousels, contact content, workshop storytelling, and a new Our Team page with member profiles and navigation.
-- **Evidence:** Recorded demonstrations cover program media, the workshop carousel, and the Our Team page; the public portfolio summarizes them without exposing the underlying work folder.
+- **Verification:** Checked eight viewport widths, cross-route navigation, browser history, intended 404 responses, targeted ESLint validation and a passing production build.
+- **Wix delivery:** Documented 15 tasks across CMS, forms, media and navigation, including program assets, workshop content and a new Our Team route.
+- **Newsletter flow:** Replaced a simulated submission with labelled Name and Email fields and a verified LinkedIn newsletter destination; secure confirmation email delivery remained pending sender configuration.
+- **Troubleshooting:** Distinguished successful browser and CMS behaviour from a missing internal-alert recipient and an inactive visitor-confirmation workflow.
+- **Evidence:** Added a sanitized workshop-page before/after visual to the repository; the public portfolio does not expose the underlying Drive folder.
 - **Outcome boundaries:** GitHub changes were merged. Wix work was checked in staged previews; email configuration remained pending and the official Wix site was unpublished in the September 2026 record.
 
 The case study summarises the supplied July and September contribution records without publishing support conversations, account details, test submissions or internal configuration identifiers.
@@ -66,6 +67,7 @@ I turn ambiguous technical problems into systems that can be evaluated and maint
 - Semantic, accessible HTML
 - Responsive layout for desktop and mobile
 - Keyboard focus states and skip navigation
+- Accessible mobile navigation with `aria-expanded`, Escape-to-close and close-on-selection behaviour
 - Open Graph and search metadata
 - Honest project provenance and contribution framing
 - Lightweight static implementation with no framework or build step
